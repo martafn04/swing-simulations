@@ -1,7 +1,7 @@
 # Swing simulations
 
 This repository contains simulations of the collective operation **Allreduce**, discussed in my Bachelor's thesis work [Distributed training: an analysis of Swing algorithm
-and application to Honeycomb networks.](https://drive.google.com/file/d/1R2Y-eNn487G8_1zKZ8nunKskbN2GOeqx/view?usp=sharing). The simulations implement Allreduce with the **Swing algorithm** [2] on collectives with different topologies.
+and application to Honeycomb networks](https://drive.google.com/file/d/1R2Y-eNn487G8_1zKZ8nunKskbN2GOeqx/view?usp=sharing). The simulations implement Allreduce with the **Swing algorithm** [2] on collectives with different topologies.
 
 ## Collectives
 
